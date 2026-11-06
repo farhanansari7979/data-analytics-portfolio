@@ -34,6 +34,17 @@ Welcome to my Data Analytics Portfolio! This repository showcases my hands-on pr
 * Data Visualization
 * Business Reporting
 
+### 3. Sales Performance Dashboard
+
+**Tools:** Power BI, DAX, Power Query
+
+- End-to-end Q1 2025 sales dashboard built from raw multi-sheet Excel data
+- Cleaned data in Power Query, built a star schema and wrote DAX measures
+- Interactive dashboard with slicers, KPIs and a reset bookmark
+
+[View Project](./03-sales-performance-dashboard)
+
+
 ## About This Portfolio
 
 This repository documents my practical learning and projects in data analytics. I will continue adding projects as I develop my analytical skills.
