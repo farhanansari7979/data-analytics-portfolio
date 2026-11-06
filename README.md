@@ -26,24 +26,25 @@ Welcome to my Data Analytics Portfolio! This repository showcases my hands-on pr
 
 **Project folder:** [View Adidas Sales Power BI Project](02-adidas-sales-powerbi/)
 
+### 3. Sales Performance Dashboard (Q1 2025)
+
+**Tools:** Power BI, DAX, Power Query
+
+* End-to-end Q1 2025 sales dashboard built from raw multi-sheet Excel data.
+* Cleaned data in Power Query, built a star schema and wrote DAX measures.
+* Interactive dashboard with slicers, KPIs and a reset bookmark.
+
+**Project folder:** [View Sales Performance Dashboard Project](03-sales-performance-dashboard/)
+
 ## Skills Demonstrated
 
 * SQL and PostgreSQL
 * Data Analysis
 * Microsoft Power BI
+* DAX and Power Query
+* Data Modeling
 * Data Visualization
 * Business Reporting
-
-### 3. Sales Performance Dashboard
-
-**Tools:** Power BI, DAX, Power Query
-
-- End-to-end Q1 2025 sales dashboard built from raw multi-sheet Excel data
-- Cleaned data in Power Query, built a star schema and wrote DAX measures
-- Interactive dashboard with slicers, KPIs and a reset bookmark
-
-[View Project](./03-sales-performance-dashboard)
-
 
 ## About This Portfolio
 
